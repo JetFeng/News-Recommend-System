@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user name="Flex" id="49184" lastUpdateTime="2017/03/22 07:05:08"> 
+    <!--第一次使用时选择的兴趣类别-->  
+    <initalPreferences> 
+      <Preference>体育</Preference>  
+      <Preference>军事</Preference>  
+      <Preference>娱乐</Preference> 
+    </initalPreferences>  
+    <newsCates> 
+      <cate label="财经"> 
+        <preferenceScore>0.0</preferenceScore>  
+        <forgetRate>0.0081</forgetRate>  
+        <!--兴趣度遗忘速率  数值在0-1之间--> 
+      </cate>  
+      <cate label="彩票"> 
+        <preferenceScore>0.0</preferenceScore>  
+        <forgetRate>0.0089</forgetRate> 
+      </cate>  
+      <cate label="军事"> 
+        <preferenceScore>0.0326</preferenceScore>  
+        <forgetRate>0.0091</forgetRate> 
+      </cate>  
+      <cate label="科技"> 
+        <preferenceScore>0.0</preferenceScore>  
+        <forgetRate>0.0095</forgetRate> 
+      </cate>  
+      <cate label="历史"> 
+        <preferenceScore>0.0</preferenceScore>  
+        <forgetRate>0.0091</forgetRate> 
+      </cate>  
+      <cate label="汽车"> 
+        <preferenceScore>0.0</preferenceScore>  
+        <forgetRate>0.0099</forgetRate> 
+      </cate>  
+      <cate label="体育"> 
+        <preferenceScore>0.2024</preferenceScore>  
+        <forgetRate>0.0079</forgetRate> 
+      </cate>  
+      <cate label="星座"> 
+        <preferenceScore>0.0111</preferenceScore>  
+        <forgetRate>0.0085</forgetRate> 
+      </cate>  
+      <cate label="娱乐"> 
+        <preferenceScore>0.0</preferenceScore>  
+        <forgetRate>0.0089</forgetRate> 
+      </cate> 
+    </newsCates> 
+  </user> 
+</users>

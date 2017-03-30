@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Java/IKAnalyzer2012_u6.jar"/>
+	<classpathentry kind="lib" path="D:/Java/lucene-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/weka.jar" sourcepath="C:/Program Files/Weka-3-8/weka-src.jar"/>
+	<classpathentry kind="lib" path="D:/Java/javacsv2.1/javacsv.jar"/>
+	<classpathentry kind="lib" path="D:/Java/workspace/新闻推荐/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/workspace/新闻推荐/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java/workspace/新闻推荐/trident-7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/workspace/新闻推荐/substance-6.0.jar"/>
+	<classpathentry kind="lib" path="E:/讯飞SDK/lib/lib/json-jena-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/讯飞SDK/lib/lib/Msc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
